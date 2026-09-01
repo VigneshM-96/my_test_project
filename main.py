@@ -1,3 +1,3 @@
 print("Hello Tyzon v0.1 test")
 print("hello")
-print("He"()
+print("He"().giut
